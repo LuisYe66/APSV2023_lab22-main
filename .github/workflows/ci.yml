@@ -81,7 +81,7 @@ jobs:
 
           push: true
 
-          tags: ghcr.io/LuisYe66/tos:latest
+          tags: ghcr.io/luisye66/tos:latest
 
   verify:
 
